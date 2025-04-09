@@ -4,9 +4,9 @@ title: Kirk J. Eby, formal resume.
 ## Technomancer  
 
 **Contact** 
-| Email | Phone |  
-| ----------- | ----------- |  
-| Kirk.J.Eby at dmadt.org | (405) 759-0757 |  
+| Email | Phone |
+| ----------- | ----------- |
+| Kirk.J.Eby at dmadt.org | (405) 759-0757 |
 
 ##                                      Professional Summary
 
@@ -19,11 +19,13 @@ I have 30+ years of systems, network, and data-center experience.
 
 ##                                   Skills
 
-| GNU/Linux Servers / Desktops | Windows administration |  
-| LDAP / Azure / Active Directory | Hypervisors |  
-| Git | Python |
-| Endpoint management | Database management |  
-| Business Continuity / Disaster Recovery | AWS / Cloud Storage |  
+|                                 |                                         |
+|---------------------------------|-----------------------------------------|
+| GNU/Linux Servers / Desktops    | Git                                     |
+| Windows administration          | Python                                  |
+| LDAP / Azure / Active Directory | Endpoint management                     |
+| Hypervisors                     | Database management                     |
+| AWS / Cloud Storage             | Business Continuity / Disaster Recovery |
 
 
 ##                                      Experience
