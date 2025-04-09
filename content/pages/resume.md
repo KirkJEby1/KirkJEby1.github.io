@@ -1,5 +1,4 @@
-title: Kirk J. Eby
-## Technomancer   
+title: Technomancer  
 Email:  Kirk.J.Eby at dmadt dot org  
 Phone:  405.759.0757  
 ---
