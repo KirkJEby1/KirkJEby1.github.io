@@ -3,10 +3,10 @@ title: Kirk J. Eby, formal resume.
 # Kirk J. Eby  
 ## Technomancer  
 
-**Contact** 
-| Email | Phone |
-| ----------- | ----------- |
-| Kirk.J.Eby at dmadt.org | (405) 759-0757 |
+**Contact**   
+| Email                     | Phone          |
+| ------------------------- | -------------- |
+| Kirk.J.Eby at dmadt.org   | (405) 759-0757 |
 
 ##                                      Professional Summary
 
