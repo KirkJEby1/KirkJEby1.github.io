@@ -1,8 +1,10 @@
 title: Technomancer  
 Email:  Kirk.J.Eby at dmadt dot org  
-Phone:  405.759.0757  
+Phone:  405.759.0757 
+
 ---
-##                                      Professional Summary
+
+## Professional Summary
 
 I am well versed in operating systems, database frameworks, and application stacks.  
 I design and build automated routines leveraging a variety of techniques.  
@@ -11,7 +13,7 @@ I voraciously learn new technologies, techniques, and workflows to increase valu
 My diagnostic and troubleshooting skills are unmatched.  
 I have 30+ years of systems, network, and data-center experience.  
 
-##                                   Skills
+## Skills
 
 |                                 |                                         |
 |---------------------------------|-----------------------------------------|
@@ -22,7 +24,7 @@ I have 30+ years of systems, network, and data-center experience.
 | AWS / Cloud Storage             | Business Continuity / Disaster Recovery |
 
 
-##                                      Experience
+##  Experience
 
 #### GIS Administrator  
 **Dobson Fiber,** Oklahoma City, OK  
