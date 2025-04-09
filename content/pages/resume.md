@@ -1,0 +1,1 @@
+title: Kirk J. Eby, formal resume.
