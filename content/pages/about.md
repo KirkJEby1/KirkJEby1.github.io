@@ -2,11 +2,13 @@ title: Professional Roadmap
 
 Greetings,  
   
-  
+
 As a System Administrator with 30+ years in Information Technology, I have enjoyed a diverse and well-rounded career in which I am constantly seeking new skills and new technologies to understand.  
   
        
 I was recruited to Dobson Fiber by a former colleague at the College to resolve issues within their Geo-spatial Enterprise. I liaised between Dobson’s GIS department, separate IT department, Outside Plant engineers, and their GIS software vendor (ESRI).  Within my first six months, the Enterprise servers were tuned for efficiency and to better handle the newly evolving workflows.  I managed to also eliminate most of the lingering client-side ArcGIS issues when the company changed direction, eliminating my position.  
+  
+  
 While with the Center for Spatial Analysis, within the College of Atmospheric and Geographic Sciences, I arrived almost a year after the departure of my predecessor to discover that maintenance and upkeep were skeletal, at best, and no upgrades or updates had been performed in well over a year.  I upgraded aging servers and systems to meet or exceed University policies on network security and privacy. I modified custom projects like the OTC Streamlined Sales Tax Rate Locator, to run on modern server OS’s. I upgraded and restructured obsolete technology to carry the Center forward well past the 2020 US Census, where we aggregated the Census data for the State of Oklahoma.  I replaced and designed a bespoke edge firewall solution to resolve the Center’s unique routing issues.  I designed and deployed a new Geo-spatial private cloud stack to house new research projects.   In March of 2020, working in tight coordination with the other System Administrators within the College of A&GS, and in record time, we made Data Center updates, upgrades and changes to facilitate our staff and other University employees’ ability to telecommute when the COVID pandemic sent us all into hiding.  As the Center had already been designed around the, “work from anywhere,” mindset, we became the template that other units on campus began to replicate.  
   
        
