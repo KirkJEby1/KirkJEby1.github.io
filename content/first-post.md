@@ -1,9 +1,8 @@
-title: Welcome
+title: Have IT issues?
 date: 04/08/2025
 author: Kirk J. Eby
 category: Bio
 
-Have IT issues?
 
 That's a mystery I *can* solve.
 
