@@ -6,8 +6,8 @@ category: Bio
 
 That's a mystery I *can* solve.
 
-![Me and the Scooby Gang This one time...][Headshot_SD]
+![Me and the Scooby Gang This one time...][Headshot_TM]
 
 
 
-[Headshot_SD]: {static}/images/Headshot_SD.png
+[Headshot_TM]: {static}/images/Technomancer-Profile-fc1.png
