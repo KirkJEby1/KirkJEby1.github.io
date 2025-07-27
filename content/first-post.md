@@ -6,6 +6,4 @@ category: Bio
 
 That's a mystery I *can* solve.
 
-
-
-[Headshot_TM]: {static}/images/Technomancer-Profile-fc1.png
+[Headshot_TM]: {static}/images/Technomancer-Profile-fc.png
