@@ -1,6 +1,6 @@
 AUTHOR = 'Kirk J. Eby'
 SITENAME = 'About Kirk James Eby'
-SITEURL = "about.kirkjeby.com"
+# SITEURL = "about.kirkjeby.com"
 
 PATH = "content"
 
