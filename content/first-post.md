@@ -1,5 +1,6 @@
 title: Have IT issues?
 author: Kirk J. Eby
+date: July, 2025
 category: Bio
 ![Me and the Gang This one time...][Headshot_TM]
 
